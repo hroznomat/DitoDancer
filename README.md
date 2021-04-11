@@ -1,2 +1,2 @@
 ## Work In Progress
-Alternative → https://matias.ma/nsfw
+Alternative →  <a href="https://matias.ma/nsfw">matias.ma</a>
